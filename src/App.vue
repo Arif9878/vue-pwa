@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <span>PWA VueJs</span>
+      <span>BACOT</span>
     </header>
     <main>
       <div class="wrapper">
